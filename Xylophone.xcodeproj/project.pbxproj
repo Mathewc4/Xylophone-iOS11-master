@@ -19,6 +19,7 @@
 		63C019F31C58E4AD001F4187 /* note5.wav in Resources */ = {isa = PBXBuildFile; fileRef = 63C019EC1C58E4AD001F4187 /* note5.wav */; };
 		63C019F41C58E4AD001F4187 /* note6.wav in Resources */ = {isa = PBXBuildFile; fileRef = 63C019ED1C58E4AD001F4187 /* note6.wav */; };
 		63C019F51C58E4AD001F4187 /* note7.wav in Resources */ = {isa = PBXBuildFile; fileRef = 63C019EE1C58E4AD001F4187 /* note7.wav */; };
+		DFAD619C215AD3440018A19D /* readme in Resources */ = {isa = PBXBuildFile; fileRef = DFAD619B215AD3440018A19D /* readme */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +37,7 @@
 		63C019EC1C58E4AD001F4187 /* note5.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = note5.wav; sourceTree = "<group>"; };
 		63C019ED1C58E4AD001F4187 /* note6.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = note6.wav; sourceTree = "<group>"; };
 		63C019EE1C58E4AD001F4187 /* note7.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = note7.wav; sourceTree = "<group>"; };
+		DFAD619B215AD3440018A19D /* readme */ = {isa = PBXFileReference; lastKnownFileType = text; path = readme; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 		63C019BC1C58DF76001F4187 = {
 			isa = PBXGroup;
 			children = (
+				DFAD619B215AD3440018A19D /* readme */,
 				63C019C71C58DF76001F4187 /* Xylophone */,
 				63C019C61C58DF76001F4187 /* Products */,
 			);
@@ -154,6 +157,7 @@
 			files = (
 				63C019F41C58E4AD001F4187 /* note6.wav in Resources */,
 				63C019F31C58E4AD001F4187 /* note5.wav in Resources */,
+				DFAD619C215AD3440018A19D /* readme in Resources */,
 				63C019F11C58E4AD001F4187 /* note3.wav in Resources */,
 				63C019EF1C58E4AD001F4187 /* note1.wav in Resources */,
 				63C019F21C58E4AD001F4187 /* note4.wav in Resources */,
